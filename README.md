@@ -30,13 +30,13 @@ React application that recommends films based on Darren Aronofsky's distinctive 
 
 ### ❤️ [Pulse Watch](https://github.com/iccir919/pulseWatch) · 41⭐
 Export and visualize your Fitbit heart-rate data with privacy-first, client-side processing.
-- **Tech:** HTML, JavaScript, D3.js
+- **Tech:** HTML, JavaScript, Data Visualization
 - **Live:** [pulseWatch Demo](https://iccir919.github.io/pulseWatch/public/index.html)
 
-### 🌐 [Translation App](https://github.com/iccir919/translation-app)
-Fast, simple translation tool powered by LLM inference and serverless APIs.
-- **Tech:** JavaScript, OpenAI API, Serverless Functions
-- **Live:** [translation-app-azure.vercel.app](https://translation-app-azure.vercel.app/)
+### 🎵 [See My Sound](https://github.com/iccir919/see-my-sound)
+Spotify-powered application that visualizes your music profile and listening data.
+- **Tech:** React, Vite, Spotify Web API, OAuth 2.0 PKCE
+- **Live:** [see-my-sound.vercel.app](https://see-my-sound.vercel.app)
 
 ## 💡 What I'm Working On
 
