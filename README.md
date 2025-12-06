@@ -19,12 +19,12 @@ AI-powered web applications · Data visualization · API integration · Responsi
 ## 🌟 Featured Projects
 
 ### 🎢 [Yen Sid's Ride Recommender](https://github.com/iccir919/yen-sid)
-AI-powered Disney theme park ride recommendation app that combines real-time data with intelligent suggestions.
+An AI-powered Disney theme park ride recommendation app that combines real-time data with intelligent suggestions.
 - **Tech:** JavaScript, OpenAI API, Theme Parks Wiki API, Weather API
 - **Live:** [yen-sid.vercel.app](https://yen-sid.vercel.app)
 
 ### 🎬 [Aronofsky Advisor](https://github.com/iccir919/aronofsky-advisor)
-React application that recommends films based on Darren Aronofsky's distinctive cinematic style using AI.
+An AI-powered film recommendation application that helps you discover which Darren Aronofsky film to watch next.
 - **Tech:** React, Vite, OpenAI API
 - **Live:** [aronofsky-advisor.vercel.app](https://aronofsky-advisor.vercel.app)
 
