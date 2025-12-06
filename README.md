@@ -45,16 +45,9 @@ Fast, simple translation tool powered by LLM inference and serverless APIs.
 - Creating tools that prioritize user privacy and data ownership
 - Learning and experimenting with modern web technologies
 
-## 📊 GitHub Stats
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iccir919&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-neilricci.dev-blue?style=flat-square&logo=google-chrome)](https://www.neilricci.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neil--ricci-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/neil-ricci/)
-[![Twitter/X](https://img.shields.io/badge/X-@realNeilVR-000000?style=flat-square&logo=x)](https://x.com/realNeilVR)
-[![Email](https://img.shields.io/badge/Email-neil.ricci9@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:neil.ricci9@gmail.com)
+[Portfolio](https://www.neilricci.dev/) · [LinkedIn](https://www.linkedin.com/in/neil-ricci/) · [Twitter/X](https://x.com/realNeilVR) · [Email](mailto:neil.ricci9@gmail.com)
 
 ---
 
