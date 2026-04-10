@@ -49,6 +49,9 @@ Spotify-powered application that visualizes your music profile and listening dat
 
 [Portfolio](https://www.neilricci.dev/) · [LinkedIn](https://www.linkedin.com/in/neil-ricci/) · [Twitter/X](https://x.com/realNeilVR) · [Email](mailto:neil.ricci9@gmail.com)
 
+## Learn to Code with Me
+[Join Scrimba and take courses with me](https://scrimba.com?via=u4a6c88)
+
 ---
 
 💭 *"console.log('Hello');"*  
