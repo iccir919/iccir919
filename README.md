@@ -62,7 +62,7 @@ My first real project. It let people chart and download their own Fitbit heart r
 ## 💡 What I'm Working On
 
 - Completing the Scrimba Fullstack Developer Path
-- **Screen Time Tracker** 
+- [Screen Time Tracker](https://github.com/iccir919/screen-time-tracker)
 
 ## 📫 Connect With Me
 
